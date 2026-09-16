@@ -1,4 +1,4 @@
-<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/b860345c-bc66-4e85-a8bd-2a350c0360a8" /># Mohammad Rasool Fadakar
+# Mohammad Rasool Fadakar
 
 **Frontend Developer** · React · TypeScript · Next.js
 
