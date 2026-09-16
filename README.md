@@ -47,7 +47,7 @@ A modern real-estate web application built with Next.js and a full-stack archite
 ## 🔗 Connect With Me
 
 * **Portfolio:** [Coming soon]
-* **Telegram:** [https://t.me/@TheDevMarco]
+* **Telegram:** [https://t.me/TheDevMarco]
 * **GitHub:** You're already here 😄
 
 ---
